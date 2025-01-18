@@ -31,3 +31,4 @@ D:\Demos\Edureka\AZ-204\AZ-204-11th-Jan-2025\Module1\App3\obj\Debug\net8.0\refin
 D:\Demos\Edureka\AZ-204\AZ-204-11th-Jan-2025\Module1\App3\obj\Debug\net8.0\App3.pdb
 D:\Demos\Edureka\AZ-204\AZ-204-11th-Jan-2025\Module1\App3\obj\Debug\net8.0\App3.genruntimeconfig.cache
 D:\Demos\Edureka\AZ-204\AZ-204-11th-Jan-2025\Module1\App3\obj\Debug\net8.0\ref\App3.dll
+D:\Demos\Edureka\AZ-204\AZ-204-11th-Jan-2025\Module1\App3\obj\Debug\net8.0\App3.sourcelink.json
